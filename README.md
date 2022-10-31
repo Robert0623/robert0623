@@ -2,6 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=3399ff&height=300&section=header&text=Robert%20Seo&fontSize=90&fontColor=ffffff)
 
+<br>
+  
+
 ### 안녕하세요!!👋  
 
 #### Back-End 개발자 서현우 입니다.
@@ -46,6 +49,7 @@ tone8943@gmail.com
 <img src="https://img.shields.io/badge/amazon aws-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 
 <br>
+<br>
 
 ## ⚒ Team Collaboration Tools ⚒
 
@@ -57,6 +61,7 @@ tone8943@gmail.com
 
 <img src="https://img.shields.io/badge/figma-E34F26?style=for-the-badge">
 
+<br>
 <br>
 
 ## 🔧 ETC Tools 🔧
@@ -70,7 +75,8 @@ tone8943@gmail.com
 <br>
 <br>
 <br>
-
+<br>
+  
 ![Robert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robert0623&show_icons=true&theme=tokonight)
 
 </div>
